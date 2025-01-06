@@ -1,18 +1,25 @@
-# Python Data Analysis Project
+# Aviation Accidents Analysis
 
 ## Description
-This project involves data analysis using Python and Jupyter Notebook, aimed at uncovering trends and providing actionable insights.
+This project analyzes a dataset of aviation accidents to identify patterns, trends, and key insights. Visualizations are used to highlight the countries and days of the week most affected by aviation accidents.
 
 ## Included Files
-- **Progetto_7_Mario_Filizzola.ipynb:** Jupyter Notebook with Python code and analysis.
+- **Progetto_7_Mario_Filizzola.ipynb:** Jupyter Notebook containing the full analysis and visualizations.
+- **aviation-accidents.csv:** Dataset with details of aviation accidents.
 
 ## Objectives
-- Perform exploratory data analysis (EDA) to uncover trends.  
-- Use Python libraries to clean, process, and visualize data.  
-- Generate insights for decision-making.
+- Clean and preprocess the dataset for analysis.  
+- Identify countries with the highest number of aviation accidents.  
+- Analyze accident trends by day of the week.  
+- Create visualizations to present key findings.
+
+## Features
+- Data cleaning and normalization, including date handling.  
+- Exploratory data analysis (EDA) to uncover patterns.  
+- Bar charts visualizing top 10 countries and accident frequency by day of the week.
 
 ## Tools
-- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- Python (Pandas, Matplotlib)  
 - Jupyter Notebook
 
 ## Contact
